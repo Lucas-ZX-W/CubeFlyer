@@ -5,5 +5,8 @@ const greetings = [
     'It\'s a bird!',
     'It\'s a plane!',
     '1000% more Cube!',
-    'A Whole New Dimension!'
+    'A Whole New Dimension!',
+    'Improvement is key',
+    'This is not a Slightly Modified Flappy Bird, Flappy Bird is a Slightly Modified version of this',
+    'Please give us money',
 ];
