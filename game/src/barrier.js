@@ -40,7 +40,6 @@ class Barrier extends GameObject {
         this.floorBox.position.x = this.location;
 
         if (this.location < -25) {
-            
             destroyObject(this);
         }
     }
