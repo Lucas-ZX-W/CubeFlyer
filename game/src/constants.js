@@ -2,11 +2,12 @@ const gravity = new BABYLON.Vector2(0, -9.8);
 const flightForce = 5; // The amount of force applied when the "fly" button is pressed
 
 const greetings = [
-    'It\'s a bird!',
-    'It\'s a plane!',
+    'It\s a bird!',
+    'It\s a plane!',
     '1000% more Cube!',
     'A Whole New Dimension!',
     'Is it reallyyyyyyy a bird??????',
     'Works just like Flappy Birds!',
-    'Allowing you to contemplate life since 2022!'
+    'Allowing you to contemplate life since 2022!',
+    'It\s a dino!'
 ];
